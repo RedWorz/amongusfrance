@@ -12,7 +12,7 @@ client.on('ready', function ( ){
     client.user.setActivity('Regarde un imposteur <3', {type: 'PLAYING'})
 })
 
-client.login(process.env.TOKEN)
+client.login(NzU5NzU5MzI0ODU0ODc4MjIz.X3CLAg.PXcKJGFWECk-GtRYP4MgHa_t3Rc)
  
 client.on("message", function (message) {
     if (!message.guild) return
